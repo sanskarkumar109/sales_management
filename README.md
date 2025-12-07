@@ -115,7 +115,7 @@ retail-sales-management/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/sanskarkumar109/sales_management.git
    cd retail-sales-management
    ```
 
